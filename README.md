@@ -1,6 +1,6 @@
 # BoViNiMa
 # Description
-- WE want to process film reviews and sort them into pistive, negative, neutral and conflicted. 
+- WE want to process film reviews and sort them into postive, negative, neutral and conflicted from the following website: https://www.recenzijefilmova.com/filmovi-2024/. 
 # Members
 - Martin Grgona
 - Nina Meštrović
