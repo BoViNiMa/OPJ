@@ -6,3 +6,5 @@
 - Nina Meštrović
 - Borna Brcković
 - Viktor Goleš
+----------------------------------
+[Annotation guideline](Annotation guideline.md)
